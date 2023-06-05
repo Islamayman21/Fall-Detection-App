@@ -2,6 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_proj/splash_screen.dart';
+import 'package:http/http.dart';
 
 void main() {
   runApp(MyApp());
